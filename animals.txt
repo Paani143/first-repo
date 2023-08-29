@@ -1,9 +1,6 @@
 M Mole
 N Newt
-<<<<<<< HEAD
 O Onager
-=======
 O Oclot
->>>>>>> alternative
 P Panda
 T Tapir
